@@ -1,0 +1,37 @@
+---
+title: "INR Controles"
+author: "Eva Rombouts"
+date: '2022-06-23'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introductie
+
+## Wat is SVITK
+SVITK staat voor **Vitamine K studie**. Het is de trial die ik heb gedaan in het kader van mijn promotie-onderzoek. In dit project gebruik ik data van deze studie om mee te klooien. 
+*BP_Controles* was de grootste tabel, met redelijk ruwe gegevens.
+
+### Heading 3
+Is deze kleiner?
+
+### Heading 3
+En deze even groot?
+
+## Heading 2
+Voor details, zie [Dokter Eva](https://doktereva.nl)
+
+### Hoe doe ik een strikethrough?  
+\strikethrough\  
+~~of streep hem maar door~~ 
+--Dit is mijn handtekening--  
+
+```{r}
+print ("Hallo jongens")
+```
+
+Een plot kan ik nog niet. Dat komt later.
+Nou dag!
